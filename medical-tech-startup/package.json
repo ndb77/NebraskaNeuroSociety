@@ -1,5 +1,5 @@
 {
-  "name": "nns-ai-curriculum",
+  "name": "medical-tech-startup",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,5 +45,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/ndb77/NebraskaNeuroSociety.git"
+  "homepage": "https://ndb77.github.io/NebraskaNeuroSociety"
 }
